@@ -1,0 +1,2 @@
+Ahamiyatsiz so'zlar (Stop words)
+Stop so'zlar hech qanday mantiqiy ma'no bermaydigan bog'lovchi va yordamchi so'zlardir: va, bilan, uchun, ham, yoki. Bunday so'zlar deyarli barcha hujjatlarda uchraydi, shuning uchun ular qidiruvda foyda bermaydi va indeksni faqat kattalashtiradi. Ularni olib tashlash indeks hajmini kamaytiradi va qidiruvni tezlashtiradi. Agar men "Ismim Karim va men talabaman" deb yozsam, "va" so'zi indeksga kirmaydi.

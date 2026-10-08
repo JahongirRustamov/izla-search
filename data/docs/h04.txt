@@ -1,0 +1,2 @@
+Tokenlash (Tokenization)
+Tokenlash hujjatdagi matnni tinish belgilari va raqamlarni olib tashlagan holda alohida so'zlarga ajratishdir. Har bir bunday so'z token deyiladi. Misol: "Mening ismim Karim." jumlasidan Mening, ismim, Karim tokenlari hosil bo'ladi. Men bu jarayonni oddiy bo'shliq bo'yicha bo'lishdan boshlayman, keyin tinish belgilarini tozalayman. O'zbek tilida so'z ichidagi apostrof (masalan, o'qish, ma'no) so'zning bir qismi hisoblanadi.

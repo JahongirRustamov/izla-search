@@ -1,0 +1,2 @@
+Indekslash nima?
+Indekslash — kompyuter millionlab hujjat ichidan kerakli ma'lumotni juda qisqa vaqtda topishi uchun matnlarni oldindan tahlil qilib, tartiblangan jadval ko'rinishiga keltirish jarayonidir. Indekslash to'rt bosqichdan iborat: tokenlash, standartlash, ahamiyatsiz so'zlarni olib tashlash va so'z o'zagini ajratish. Shundan keyin teskari indeks jadvali tuziladi. Masalan, "Mening ismim Karim" jumlasi shu bosqichlardan o'tib, men, ism, karim kalit so'zlariga aylanadi.

@@ -1,0 +1,2 @@
+Ro'yxatlar kesishmasi algoritmi
+Ikki postings ro'yxatining kesishmasi ikkita ko'rsatkich yordamida topiladi. Har bir qadamda ikkala ko'rsatkich ko'rsatayotgan hujjat raqamlari solishtiriladi. Agar ular teng bo'lsa, hujjat natijaga qo'shiladi va ikkala ko'rsatkich oldinga suriladi. Aks holda kichik raqamni ko'rsatayotgan ko'rsatkich suriladi. Ro'yxat uzunliklari x va y bo'lsa, algoritm O(x + y) amalda ishlaydi. Shuning uchun ro'yxatlar tartiblangan bo'lishi shart. Men bu algoritmni qog'ozda qadamma-qadam bajarib tushundim.

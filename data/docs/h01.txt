@@ -1,0 +1,2 @@
+Axborot qidirish nima?
+Axborot qidirish (Information Retrieval, IR) — katta hujjatlar to'plamidan foydalanuvchining axborot ehtiyojini qondiradigan hujjatlarni topish jarayonidir. Men har kuni internetda yangi ma'lumot qidiraman va qidiruv tizimi menga kerakli sahifalarni bir soniyada ko'rsatadi. Qidiruv ikki katta bosqichdan iborat: indekslash va qidirish. Hujjat odatda tuzilmasiz matn bo'ladi, lekin rasm, audio va video ham qidirilishi mumkin.

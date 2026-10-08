@@ -1,0 +1,2 @@
+Lemmatizatsiya va stemming
+So'z o'zagini ajratish jarayonida barcha so'zlarning qo'shimchalari olib tashlanib, ular lug'at ko'rinishiga keltiriladi. Ikki yondashuv bor: stemming qo'shimchalarni qoidalar bo'yicha kesadi, lemmatizatsiya esa so'zni lug'atdagi asl shakliga qaytaradi. O'zbek tili agglyutinativ til bo'lgani uchun bitta o'zakka ko'plab qo'shimchalar ulanadi: kitob, kitoblar, kitobim, kitoblarimizda. Mening so'zi men ga, ismim so'zi ism ga aylanadi. Karim esa atoqli ot bo'lgani uchun o'zgarmaydi.

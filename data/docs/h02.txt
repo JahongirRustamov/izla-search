@@ -1,0 +1,2 @@
+Axborot ehtiyoji va so'rov
+Axborot ehtiyoji — foydalanuvchi ko'proq bilmoqchi bo'lgan mavzudir. So'rov esa shu ehtiyojni kompyuterga tushuntirish uchun yozilgan formal ifodadir. Masalan, men "quvur liniyasi oqishi" haqida bilmoqchi bo'lsam, qidiruv tizimiga bir nechta kalit so'z yozaman. Agar hujjat foydalanuvchining ehtiyojini qondirsa, u relevant hujjat deb ataladi. Qidiruv tizimining sifati aniqlik va to'liqlik ko'rsatkichlari bilan baholanadi.

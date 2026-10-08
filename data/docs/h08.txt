@@ -1,0 +1,2 @@
+Teskari indeks (Inverted Index)
+Indekslashning to'rt bosqichi tugagach, teskari indeks jadvali tuziladi. Jadvalning bir ustunida kalit so'z, ikkinchisida esa shu so'z qaysi hujjatlarda borligi saqlanadi. Kalit so'zlar to'plami lug'at, hujjatlar ro'yxati esa postings deb ataladi. Ro'yxatlar hujjat raqami bo'yicha tartiblanadi. Masalan, ism so'zi H3, H4 va H5 hujjatlarida uchrasa, indeksda ism → H3, H4, H5 yozuvi paydo bo'ladi. Shu sababli qidiruv barcha hujjatlarni emas, faqat tayyor ro'yxatni ko'radi.

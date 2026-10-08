@@ -1,0 +1,2 @@
+TF-IDF bilan saralash
+Bulev model natijani saralamaydi, shuning uchun amalda TF-IDF kabi og'irlik sxemalari qo'llaniladi. TF so'zning hujjatda necha marta uchrashini bildiradi. IDF esa so'zning noyobligini o'lchaydi: so'z qancha kam hujjatda uchrasa, uning og'irligi shuncha yuqori bo'ladi. Ikkalasining ko'paytmasi hujjatning so'rovga mosligini ko'rsatadi. Karim kabi noyob so'z, ko'p hujjatda uchraydigan so'zdan ancha muhimroq hisoblanadi.

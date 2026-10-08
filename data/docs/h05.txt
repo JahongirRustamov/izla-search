@@ -1,0 +1,2 @@
+Standartlash (Normalization)
+Standartlash barcha so'zlarni bir xil ko'rinishga keltiradi. Qidiruv algoritmlari matnlarni bir xil shaklda solishtirishi uchun barcha harflar kichik harfga o'tkaziladi. Demak, Mening, ismim, Karim tokenlari mening, ismim, karim bo'lib qoladi. Shu sababli foydalanuvchi "KARIM" deb yozsa ham, "karim" deb yozsa ham, bir xil natija oladi. Men har doim so'rovni ham hujjat bilan bir xil usulda standartlashtiraman.

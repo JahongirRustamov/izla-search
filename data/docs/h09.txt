@@ -1,0 +1,2 @@
+Bulev qidiruv modeli
+Bulev qidiruv modelida so'rov AND, OR va NOT operatorlari bilan tuziladi. Klassik misol: Shekspirning qaysi pesasida Brutus AND Caesar AND NOT Calpurnia so'zlari bor? Har bir so'z uchun hujjatlar ro'yxati olinadi, AND ro'yxatlar kesishmasini, OR birlashmasini, NOT esa to'ldiruvchisini beradi. Men murakkab so'rovlarda qavslardan foydalanaman. Bulev model aniq natija beradi, lekin hujjatlarni muhimlik bo'yicha saralamaydi.

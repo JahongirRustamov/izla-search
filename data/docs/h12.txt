@@ -1,0 +1,2 @@
+Aniqlik va to'liqlik
+Qidiruv tizimining samaradorligi ikkita asosiy ko'rsatkich bilan baholanadi. Aniqlik (precision) — topilgan hujjatlarning qancha qismi haqiqatan ham foydalanuvchiga kerakligini bildiradi. To'liqlik (recall) esa to'plamdagi barcha tegishli hujjatlarning qancha qismi topilganini ko'rsatadi. Men ikkalasini ham yuqori ushlashga harakat qilaman, ammo odatda biri oshsa, ikkinchisi pasayadi.
